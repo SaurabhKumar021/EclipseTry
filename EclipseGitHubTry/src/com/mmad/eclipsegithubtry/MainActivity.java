@@ -59,6 +59,7 @@ public class MainActivity extends ActionBarActivity {
                 Bundle savedInstanceState) {
             View rootView = inflater.inflate(R.layout.fragment_main, container, false);
             //saurbh
+            //Hari
             return rootView;
         }
     }
